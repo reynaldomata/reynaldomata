@@ -13,9 +13,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/reynaldomata/ticket-lifecycle)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Reynaldo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Reynaldo | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][twitter]
 [<img align="left" alt="Reynaldo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/rexnaldomata
+[twitter]: https:/x.com/rexnaldomata
 [instagram]: https://www.instagram.com/rexnaldomata
 [linkedin]: https://linkedin.com/in/reynaldo-mata

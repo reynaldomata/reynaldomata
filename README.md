@@ -13,7 +13,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/reynaldomata/ticket-lifecycle)
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Reynaldo | X" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)" />][x]
+[<img align="left" alt="Reynaldo | X" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" />][x]
 [<img align="left" alt="Reynaldo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https:/x.com/rexnaldomata
